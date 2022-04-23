@@ -1,0 +1,2 @@
+# trygame
+zx cho
